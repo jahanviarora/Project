@@ -1,2 +1,2 @@
-# jahanvi
+# project
 Money Management Mobile App
